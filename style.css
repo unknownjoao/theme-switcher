@@ -7,7 +7,7 @@
 * {
   box-sizing: border-box;
   overflow: hidden;
-
+}
 .toggle-container {
   display: flex;
   position: relative;
